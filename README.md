@@ -1,73 +1,81 @@
-# Welcome to your Lovable project
+<h1 align="center">Hi 👋, I'm Gayatri Kadam</h1>
+<h3 align="center">AI Software Engineer | Full-Stack Developer | Deep Learning Enthusiast</h3>
 
-## Project info
+<p align="center">
+🚀 Turning Ideas into Scalable AI & Cloud-Native Products  
+</p>
 
-**URL**: https://lovable.dev/projects/0a753fdd-a43f-42d1-9bc8-f4cd711ffbfa
+---
 
-## How can I edit this code?
+### 📌 **About Me**
+- 🔭 Currently working as an **AI Software Engineer (Analyst) at KPMG – KDN AI**
+- ☁️ Experienced in **Production-grade AI deployments on Azure (Function Apps, App Services, Managed Identity, Easy Auth, App Keys)**
+- 🤖 Skilled in **NLP, CV, Deep Learning, Microservices, and Multilingual Document AI**
+- 🌱 Improving expertise in **Distributed Systems, Resilient Services & Real-Time AI**
+- ⚽ Fun fact: I love **playing football** (DTU Girls Football Team)
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+### 🛠️ **Tech Stack**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/0a753fdd-a43f-42d1-9bc8-f4cd711ffbfa) and start prompting.
+**Languages:** `C` `C++` `Python` `JavaScript` `SQL` `Golang`  
+**Frontend:** `React.js` `HTML` `CSS` `Tailwind` `Bootstrap` `Material UI`  
+**Backend:** `Node.js` `Express.js` `FastAPI` `REST APIs`  
+**AI / ML:** `NLP` `Computer Vision` `TensorFlow` `Keras` `PyTorch` `Spacy` `NER` `Scikit-learn`  
+**Cloud / DevOps / Tools:** `Azure` `Docker` `GitHub` `Git` `Prometheus` `Grafana` `Kafka` `Opossum.js`  
+**Databases:** `MySQL` `MongoDB` `PostgreSQL`  
+**Concepts:** `OOPS` `OS` `DBMS` `DSA` `Microservices` `Agile`
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+### 🏗️ **Projects**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+#### 📌 **1. AI-Powered ESG Workforce Wellbeing Agent – Web App**
+*FastAPI, Hugging Face, CNN, React*  
+A multimodal wellbeing monitoring system using **wearables, CV, sentiment analysis, and environmental data** with:
+- Burnout detection using **RoBERTa**, overload patterns & behavior metrics
+- LLM-powered **personalized wellness recommendation engine**
+- Real-time HR dashboard for workforce health insights
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+#### 📌 **2. CompEgg – Competitive Programming Dashboard**
+*React, Node, Express, MongoDB, Firebase*  
+- Aggregates coding profiles (**Leetcode, GFG, CodeChef, Codeforces**)  
+- 🔥 **Heatmap visualizations (D3.js)** + Google OAuth authentication
 
-Follow these steps:
+#### 📌 **3. Robust Error Handling & Operational Resilience**
+*Node.js, Circuit Breaker, Prometheus, Grafana, Docker*  
+- Resilient microservices with **circuit breakers & fallbacks**  
+- Full-stack monitoring dashboards + alerting
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### 💼 **Work Experience**
+**AI Software Engineer – Analyst | KPMG (KDN AI)**  
+- Built an **end-to-end Multilingual Translation Agent** (PDFs, images, documents, folders) using Azure + OCR + Auto-Detection  
+- Production deployments on **Azure App Services & Function Apps (Managed Identity, Easy Auth, App Keys)**  
+- Optimized deep learning performance on **HP Z8 Fury (NVIDIA GPUs)**
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+### 🏆 **Achievements**
+- 🥇 **Best Employee of the Month – 2 times**
+- 💻 **Solved 1000+ DSA problems** across platforms
+- ⭐ **1550+ LeetCode Rating**
+- ⚽ Winner: **IIT BHU & Aagaaz 2024 Football Championships**
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+### 🎓 **Education**
+**B.Tech – Engineering Physics (2021–2025)**  
+Delhi Technological University (DTU), New Delhi | **CGPA: 8.49**
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+### 📬 **Let’s Connect**
+[GitHub](#) • [Portfolio](#) • [LinkedIn](#) • [LeetCode](#)  
+📧 **gayatrik22803@gmail.com**  
+📱 **+91 7385130244**
 
-## What technologies are used for this project?
+---
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/0a753fdd-a43f-42d1-9bc8-f4cd711ffbfa) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+⭐ *If you like my work, consider giving a star to my repositories!*
