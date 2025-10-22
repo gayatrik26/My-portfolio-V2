@@ -5,6 +5,9 @@
 🚀 Turning Ideas into Scalable AI & Cloud-Native Products  
 </p>
 
+<p>live link - https://portfolio-v2-gayatri.netlify.app/
+</p>
+
 ---
 
 ### 📌 **About Me**
