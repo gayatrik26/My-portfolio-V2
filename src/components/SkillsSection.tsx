@@ -24,11 +24,11 @@ const SkillsSection = () => {
       icon: Code,
       color: 'text-primary',
       skills: [
-        { name: 'Python', level: 90, experience: '2+ years', description: 'FastAPI, ML/AI libraries, Data Science' },
-        { name: 'JavaScript/ES6+', level: 85, experience: '2+ years', description: 'React, Node.js, Express, modern frameworks' },
-        { name: 'C/C++', level: 85, experience: '3+ years', description: 'DSA, Competitive programming, algorithms' },
+        { name: 'Python', level: 70, experience: '1+ years', description: 'FastAPI, ML/AI libraries, Data Science' },
+        { name: 'JavaScript/ES6+', level: 90, experience: '2+ years', description: 'React, Node.js, Express, modern frameworks' },
+        { name: 'C/C++', level: 85, experience: '2+ years', description: 'DSA, Competitive programming, algorithms' },
         { name: 'TypeScript', level: 70, experience: '1+ year', description: 'Type-safe development, advanced patterns' },
-        { name: 'SQL', level: 80, experience: '2+ years', description: 'MySQL, PostgreSQL, complex queries' },
+        { name: 'SQL', level: 80, experience: '1+ years', description: 'MySQL, PostgreSQL, complex queries' },
         { name: 'Golang', level: 65, experience: '1 year', description: 'Microservices, concurrent programming' }
       ]
     },
@@ -38,13 +38,13 @@ const SkillsSection = () => {
       icon: Brain,
       color: 'text-accent',
       skills: [
-        { name: 'TensorFlow & Keras', level: 85, experience: '2+ years', description: 'Deep learning, neural networks, CNNs' },
-        { name: 'NLP', level: 88, experience: '2+ years', description: 'RoBERTa, Transformers, Sentiment Analysis, NER' },
+        { name: 'TensorFlow & Keras', level: 85, experience: '1+ years', description: 'Deep learning, neural networks, CNNs' },
+        { name: 'NLP', level: 88, experience: '1+ years', description: 'RoBERTa, Transformers, Sentiment Analysis, NER' },
         { name: 'Computer Vision', level: 82, experience: '1+ year', description: 'CNN, emotion detection, image processing' },
-        { name: 'Scikit-learn', level: 85, experience: '2+ years', description: 'Classical ML, data preprocessing, feature engineering' },
+        { name: 'Scikit-learn', level: 85, experience: '1+ years', description: 'Classical ML, data preprocessing, feature engineering' },
         { name: 'Hugging Face', level: 80, experience: '1+ year', description: 'Pre-trained models, fine-tuning, transformers' },
         { name: 'Spacy', level: 75, experience: '1+ year', description: 'Named Entity Recognition, text processing' },
-        { name: 'NumPy & Pandas', level: 88, experience: '2+ years', description: 'Data manipulation, analysis, preprocessing' },
+        { name: 'NumPy & Pandas', level: 88, experience: '1+ years', description: 'Data manipulation, analysis, preprocessing' },
         { name: 'Data Visualization', level: 80, experience: '1+ year', description: 'Matplotlib, Seaborn, data insights' }
       ]
     },
@@ -82,11 +82,11 @@ const SkillsSection = () => {
       icon: Database,
       color: 'text-success',
       skills: [
-        { name: 'MongoDB', level: 82, experience: '2+ years', description: 'NoSQL, aggregation pipelines' },
+        { name: 'MongoDB', level: 82, experience: '1+ years', description: 'NoSQL, aggregation pipelines' },
         { name: 'PostgreSQL', level: 78, experience: '1+ year', description: 'Advanced queries, optimization' },
-        { name: 'MySQL', level: 80, experience: '2+ years', description: 'Relational design, performance tuning' },
+        { name: 'MySQL', level: 80, experience: '1+ years', description: 'Relational design, performance tuning' },
         { name: 'Firebase', level: 75, experience: '1+ year', description: 'Real-time database, authentication' },
-        { name: 'SQL', level: 80, experience: '2+ years', description: 'Complex queries, database design' }
+        { name: 'SQL', level: 80, experience: '1+ years', description: 'Complex queries, database design' }
       ]
     },
     {
@@ -96,10 +96,9 @@ const SkillsSection = () => {
       color: 'text-error',
       skills: [
         { name: 'Microsoft Azure', level: 80, experience: '1 year', description: 'Function Apps, App Services, Translation API' },
-        { name: 'Docker', level: 75, experience: '1 year', description: 'Containerization, multi-stage builds' },
         { name: 'Prometheus', level: 78, experience: '1 year', description: 'Monitoring, alerting, metrics' },
         { name: 'Grafana', level: 75, experience: '1 year', description: 'Dashboards, visualization, real-time monitoring' },
-        { name: 'GitHub & Git', level: 85, experience: '3+ years', description: 'Version control, CI/CD, SSH workflows' },
+        { name: 'GitHub & Git', level: 85, experience: '2+ years', description: 'Version control, CI/CD, SSH workflows' },
         { name: 'VS Code', level: 88, experience: '3+ years', description: 'Development environment, extensions' }
       ]
     }
@@ -190,8 +189,8 @@ const SkillsSection = () => {
                     <code>
                       {`export const ${category.id} = {
   category: '${category.title}',
-  totalSkills: ${category.skills.length},
-  avgExperience: '2.5+ years',
+  totalSkillSets: ${category.skills.length},
+  avgExperience: '2+ years',
   status: 'actively improving'
 };`}
                     </code>
